@@ -3,4 +3,7 @@
 
 # Earth_Orbit
 
-##
+## 💻 Tecnologias
+- HTML
+- CSS
+
